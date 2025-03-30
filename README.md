@@ -4,6 +4,8 @@ A Flutter application built using the [Stacked](https://pub.dev/packages/stacked
 
 ## Getting Started
 
+[Download APK](https://www.dropbox.com/scl/fi/3kkcqymo2qj8rkkkmomui/app-release.apk?rlkey=n36vf951c9jf127tcpcfx2uo6&st=ji2p26ve&dl=0)
+
 ### Clone the Repository
 To get started with the project, clone this repository:
 ```sh
